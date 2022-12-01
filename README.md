@@ -1,4 +1,4 @@
-## Oi eu sou o Elias Marvila, Programador Front-End
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7E02FFF0&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Eu+me+chamo+Elias+Marvila;Sou+Pogramdor+Front-End!+:%29)](https://git.io/typing-svg)
 ### 🛠️ GitHub Stats
 <div align="center">
   <a href="https://github.com/elaiass">
