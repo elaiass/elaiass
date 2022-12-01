@@ -1,8 +1,9 @@
 ## Oi eu sou o Elias Marvila, Programador Front-End
-<div align="center">
+### 🛠️ GitHub Stats
+<div>
   <a href="https://github.com/elaiass">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiass&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiass&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
