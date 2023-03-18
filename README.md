@@ -2,8 +2,8 @@
 ### 🛠️ GitHub Stats
 <div align="center">
   <a href="https://github.com/elaiass">
-    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiass&layout=compact&langs_count=7&theme=aura"/>
+    <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiass&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
