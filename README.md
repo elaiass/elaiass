@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7E02FFF0&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Eu+me+chamo+Elias+Marvila;Sou+Pogramador+Front-End!+:%29)](https://git.io/typing-svg)
+## Oiii eu sou Elias Marvila!
 ### 🛠️ GitHub Stats
 <div align="center">
-  <a href="https://github.com/elaiass">
-    <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiass&layout=compact&langs_count=7&theme=aura"/>
-</div>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=elaiass&show_icons=true&theme=dark" alt="elaiass's GitHub stats"></img>
+  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=elaiass&theme=dark&hide_border=false" alt="elaiass's GitHub Streak stats"></img>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
