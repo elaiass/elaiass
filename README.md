@@ -26,13 +26,16 @@ Tenho 22 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando
 
 ### 📊 Estatísticas
 
+<br/> 
+<br/> 
 
 <p>
+  
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
