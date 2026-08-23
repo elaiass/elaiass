@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Elias Marvila
 **`Programador`**
 
-Tenho 22 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando Engenharia de Software na Unopar. Tenho grande interesse por tecnologia, estou sempre em busca de aprender mais sobre o mundo digital, inovação e desenvolvimento de soluções que façam a diferença.
+Tenho 23 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando Engenharia de Software na Unopar. Tenho grande interesse por tecnologia, estou sempre em busca de aprender mais sobre o mundo digital, inovação e desenvolvimento de soluções que façam a diferença.
 
 <div>
   <a href="mailto:eliasmarvilaa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
