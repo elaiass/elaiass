@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Elias Marvila
+#  Elias Marvila
 **`Programador`**
 
 Tenho 23 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando Engenharia de Software na Unopar. Tenho grande interesse por tecnologia, estou sempre em busca de aprender mais sobre o mundo digital, inovação e desenvolvimento de soluções que façam a diferença.
@@ -22,28 +22,4 @@ Tenho 23 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando
   <img align="right" alt="Elias-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/4ebd6c4a28348efbb13b0203bbfdb01a.gif"
 </div>
   
-#
 
-### 📊 Estatísticas
-
-<br/> 
-<br/> 
-
-<p>
-  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=elaiass&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiass&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
