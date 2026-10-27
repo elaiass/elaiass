@@ -3,11 +3,7 @@
 
 Tenho 23 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando Engenharia de Software na Unopar. Tenho grande interesse por tecnologia, estou sempre em busca de aprender mais sobre o mundo digital, inovação e desenvolvimento de soluções que façam a diferença.
 
-<div>
-  <a href="mailto:eliasmarvilaa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elias-marvila-7a861924b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/elias.marvila/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
 
 
 #
