@@ -15,7 +15,6 @@ Tenho 23 anos, sou natural de Arraial do Cabo – RJ e atualmente estou cursando
   <img align="center" alt="Elias-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Elias-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Elias-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Elias-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/4ebd6c4a28348efbb13b0203bbfdb01a.gif"
 </div>
   
 
